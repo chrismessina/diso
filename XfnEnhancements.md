@@ -1,0 +1,8 @@
+# XFN Enhancements #
+
+  * offer admin a list of openid-enabled users to add to blogroll
+    * clicking link opens pre-populated "Add Link" page in admin
+    * "add our OpenID users list to the "Blogroll" top-level menu so that it
+appears in that same section as other Links.
+    * Menu would be
+    * `Links | Add Link | Import Links | Import OpenID Users ...`
